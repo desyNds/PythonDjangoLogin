@@ -1,0 +1,4 @@
+django-extentions
+django
+ipython
+jupyter
